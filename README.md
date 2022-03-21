@@ -6,7 +6,7 @@ Standard functionality for most email clients allows you to search your inbox fo
 To use:
 1) Place email files to be checked in the emails subfolder
 2) Edit the sender details and phraselist you're checking for. 
-3) Phrase list can contain one or more words. Note, per issue below, that words can be split over two lines in Note .eml files, so using multiple single words may work where using a long phrase doesn't
+3) Phrase list can contain one or more words. NB: per issue below, that words can be split over two lines in Notes .eml files, so using multiple single words may work where using a long phrase doesn't
 
 # Issues
 1) Notes seems to enforce a line length (of 73 chars in files I've looked at), and will split words across lines, with an equals sign. Eg me could become m=
