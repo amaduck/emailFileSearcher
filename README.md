@@ -4,7 +4,7 @@ Searches .eml files for phrases
 Standard functionality for most email clients allows you to search your inbox for a particular phrase. Lotus Notes does not allow this, or at least my version of Notes doesn't. This program will run through email files looking for particular phrases from a particular sender, and return a list of emails that match the criteria.
 
 To use:
-1) Place email files to be checked in the emails subfolder
+1) Place email files to be checked in the emails subfolder (drag / drop from Notes)
 2) Edit the sender details and phraselist you're checking for. 
 3) Phrase list can contain one or more words. NB: per issue below, that words can be split over two lines in Notes .eml files, so using multiple single words may work where using a long phrase doesn't
 
