@@ -12,5 +12,8 @@ To use:
 1) Notes seems to enforce a line length (of 73 chars in files I've looked at), and will split words across lines, with an equals sign. Eg me could become m=
 e. This program won't register that instance of "me". I suspect it would be possible to resolve this with more work on the email parser, but I've found the email I wanted, and this is a pretty niche use case
 
+# Potential Improvements
+1) Prompt for email sender and phrases, rather than hardcoding
+2) Make better use of parser to check words as they appear in html, rather than checking underlying code
 
 I was looking for a particular email, and found it using this - don't envisage doing much more work on this
