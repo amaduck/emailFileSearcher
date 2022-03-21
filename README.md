@@ -1,4 +1,4 @@
-# emailSearcher
+# emailFileSearcher
 Searches .eml files for phrases
 
 Standard functionality for most email clients allows you to search your inbox for a particular phrase. Lotus Notes does not allow this, or at least my version of Notes doesn't. This program will run through email files looking for particular phrases from a particular sender, and return a list of emails that match the criteria.
